@@ -1,9 +1,11 @@
+# Background
+
 This file format (.db) works for DataGrip (JetBrains) and SQLite and you can open the DB to start running queries 
 
 Link to website and download for SQLite (Free): https://sqlitebrowser.org/
 
 
-DB Schema:
+# DB Schema:
 
 >Classes(class, type, country, numGuns, bore, displacement)  
 
@@ -12,3 +14,6 @@ DB Schema:
 >Battles(name, date) 
 
 >Outcomes(ship, battle, result)
+
+I AM NOT RESPONSIBLE FOR THE USE OF THIS MATERIAL
+
