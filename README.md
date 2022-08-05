@@ -1,6 +1,6 @@
 # Background
 
-This file format (.db) is for SQLite and you can open the DB to start running queries and the (.sql) file is for mySQL
+This file format (.db) is for SQLite and you can open the DB to start running queries and the (.sql) file is for mySQL.
 
 Link to website and download for SQLite (Free): [Link](https://sqlitebrowser.org/)
 
